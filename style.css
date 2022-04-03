@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+.name{
+    position:fixed;
+    bottom: 5px;
+    right:5px;
+    box-shadow:5px 5px 5px grey
+}
+.heading{
+font-size: 25px;
+width:100%;
+margin:0px;
+}
+.hi{
+    font-size: 15px;
+    width:100%;
+    margin:0px;
+}
+#textbox{
+    width:250px;
+    height:30px;
+    text-align:center;
+    background-color:aqua;
+    
+}
+.option{
+    font-size: 15px;
+}
+canvas{
+    border:5px dotted blue;
+}
